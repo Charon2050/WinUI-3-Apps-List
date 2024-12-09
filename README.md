@@ -663,7 +663,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 #### 📊 Device Info/Monitors
 
 - `WDM` [Disk Info](https://apps.microsoft.com/store/detail/disk-info/9PLQ8DP73ZDF)
-- `WDM` [Hardware information (temperature monitoring)](https://apps.microsoft.com/detail/9n9q4ld8286v)
+- `WDM` [Hardware information (temperature monitoring)](https://apps.microsoft.com/detail/9n9q4ld8286v) `💰`
 - `WDM` [Radiograph](https://apps.microsoft.com/store/detail/radiograph/9NH1P86H06CG)
 - `WDM` [TreeMap](https://apps.microsoft.com/detail/9N7WBSL9L8S8)
 - `WD` [Specs Analysis (Beta)](https://apps.microsoft.com/store/detail/specs-analysis-beta/9WZDNCRDGX54)
